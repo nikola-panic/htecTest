@@ -1,4 +1,4 @@
 # htecTest
 
-# Install Java
-# Install Node JS
+- Install Java
+- Install Node JS
