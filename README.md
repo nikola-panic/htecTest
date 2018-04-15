@@ -8,5 +8,5 @@ npm install -g nightwatch
 
 # Run test
 - Clone project
-- Open project location in CMD: 
+- Open project location in CMD and run command: 
 nightwatch
